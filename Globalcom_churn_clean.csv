@@ -1,0 +1,4 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Churn,TenureGroup
+1234-ABCD,5,70.5,352.5,No,0-12
+5678-WXYZ,24,45.0,1080.0,No,13-24
+9012-MNOP,42,99.9,4195.8,Yes,49+
