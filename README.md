@@ -13,7 +13,7 @@ The repository is organized as follows:
 │
 ├── data/
 │ └── processed/
-│ └── telco_churn_clean.csv # Final cleaned and transformed dataset
+│ └── globalcom_churn_clean.csv # Final cleaned and transformed dataset
 │
 ├── notebooks/
 │ └── 01_Data_Cleaning_EDA.ipynb # Jupyter Notebook for data preparation & EDA
